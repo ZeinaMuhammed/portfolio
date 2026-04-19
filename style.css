@@ -409,8 +409,7 @@ html
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    margin-left: 200px ;
-    margin-right: 200px ;
+   
     /* position: relative; */
 }
 .contact .contact-content .column
